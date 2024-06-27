@@ -1,17 +1,22 @@
 # 👩‍💻 Welcome to Samaneh's GitHub Profile! 👩‍💻
 
-Hey there! Welcome to my GitHub profile! 🌟 I'm Samaneh, a passionate software developer with a love for crafting efficient solutions using Python and other exciting technologies. Let's dive into what I bring to the table! 🚀
+### Hey there! Welcome to my GitHub profile! 🌟
 
-## About Me ℹ️
+I'm Samaneh, a **Cloud DevOps Engineer** passionate about designing and developing sophisticated software applications. With a strong foundation in Python, I specialize in leveraging cutting-edge technologies to drive innovative solutions. My expertise includes **AWS (AWS Certified Developer - Associate)**, Python, Django, Go, REST API, Docker, Kubernetes, Redis, PostgreSQL, MongoDB, and microservices architecture.
 
-I'm all about building innovative software solutions while fostering a collaborative and inclusive atmosphere. 💬 With a strong background in Python development and a curiosity for cutting-edge tech, I'm constantly exploring and mastering new technologies to drive impactful results.
+Let's dive into what I bring to the table! 🚀
+
+## About Me
+
+I'm all about building innovative software solutions and fostering a collaborative and inclusive atmosphere. 💬 With a strong background in Python development and a keen interest in cloud and DevOps technologies, I'm dedicated to mastering AWS (AWS Certified Developer - Associate) and other cloud platforms. I thrive on exploring cutting-edge tech to drive impactful results.
 
 ## My Tech Stack 🛠️
 
+- **Cloud**: AWS (EC2, S3, Lambda, RDS, DynamoDB), Google Cloud Platform (GCP), Microsoft Azure
 - **Languages**: Python, Go, JavaScript, TypeScript, HTML, CSS
 - **Frameworks & Libraries**: Django, Flask, React.js
-- **Databases**: PostgreSQL, MySQL, MongoDB, Redis, AWS (RDS, DynamoDB)
-- **Tools & Technologies**: Docker, Kubernetes, AWS, Kafka, REST API, Microservices
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
+- **DevOps & Tools**: Docker, Kubernetes, Terraform, Ansible, Jenkins, Kafka, REST API, Microservices
 - **Operating Systems & Infrastructure**: Linux, Bash Scripting, Linux Commands
 - **Specialties**: Backend Development, Cloud Computing
 
@@ -23,6 +28,7 @@ I'm all about building innovative software solutions while fostering a collabora
 
 ## What I Bring to the Table 🌟
 
+- **Cloud and DevOps Expertise**: Proficient in AWS (EC2, S3, Lambda, RDS, DynamoDB), Google Cloud Platform (GCP), and Azure. Skilled in Docker, Kubernetes, Terraform, and other DevOps tools for scalable and efficient cloud solutions.
 - **Clean & Efficient Code**: Crafting code that's not only functional but also maintainable and adheres to best practices.
 - **Collaborative Spirit**: Thriving in cross-functional teams, gathering requirements, and translating them into technical specifications.
 - **Passion for Innovation**: Constantly exploring and mastering cutting-edge technologies to drive innovation in software development.
