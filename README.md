@@ -4,6 +4,8 @@
 
 I'm Samaneh, a **Cloud DevOps Engineer** passionate about designing and developing sophisticated software applications. With a strong foundation in Python, I specialize in leveraging cutting-edge technologies to drive innovative solutions. My expertise includes **AWS (AWS Certified Developer - Associate)**, Python, Django, Go, REST API, Docker, Kubernetes, Redis, PostgreSQL, MongoDB, and microservices architecture.
 
+I completed a Postgraduate program in Cloud Computing from the **University of Texas at Austin**. You can check out my academic portfolio and explore more about the projects I worked on during the course [here](https://eportfolio.mygreatlearning.com/samaneh-sadat-mousavi).
+
 Let's dive into what I bring to the table! 🚀
 
 ## About Me
